@@ -8,7 +8,8 @@
 		
 		public function HelloWorld() {
 			// constructor code
-			trace ("this is the new world");
+			//trace ("this is the new world");
+			trace ("not really");
 		}
 	}
 	
